@@ -6,3 +6,4 @@ langchain-text-splitters
 youtube-transcript-api
 pytube
 unstructured
+langchain_groq
