@@ -69,13 +69,6 @@ This helps prevent:
 
 ---
 
-## 📸 Screenshots
-
-![LectureLens Input](image.png)
-![LectureLens Summary Output](image-1.png)
-
----
-
 ## 🧱 Built With
 
 * [LangChain](https://python.langchain.com/)
