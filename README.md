@@ -1,3 +1,17 @@
+---
+title: LectureLensSpace
+emoji: 🏃
+colorFrom: red
+colorTo: blue
+sdk: streamlit
+pinned: false
+license: mit
+short_description: This is hugging face space for the lecture lens project
+sdk_version: 1.46.1
+---
+
+
+
 # 🧑🏽‍🏫 LectureLens
 
 **LectureLens** is a LangChain-powered app for summarizing content from **YouTube videos** and **web URLs**, enabling quick note generation and content summarization from both video and text.
